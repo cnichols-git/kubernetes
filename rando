@@ -1,0 +1,33 @@
+### Kubernetes
+
+**Create GKE cluster**
+- this can be done 
+
+
+CLI:
+kubectl get nodes
+
+
+Terms:
+kubernetes manifest - yaml file
+
+kubernetes pod - like pod of whales
+control plan
+multi-master HA control plan
+GCP - Google cloud 
+GKE - Google kubernetes Engine
+
+
+Tools:
+SCaffold
+
+Things to think of:
+db-container-for-site
+ui-container-for-wp
+
+<null> 
+
+**test**
+*test*
+
+Should I create 

@@ -1,3 +1,6 @@
+##
+# Watch this if you are learnig kubernetes - https://youtu.be/X48VuDVv0do
+#
 # kubernetes
 
 commands for minikube
