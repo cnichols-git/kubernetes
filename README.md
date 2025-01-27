@@ -2,3 +2,6 @@
 Repo for all things in the kube
 
 I have come to the conclusion that all tutorials install prometheus in a cluster that is only accessable from within that cluster, boo!!!
+
+Change namespace
+kubectl config set-context --current --namespace=my-namespace
